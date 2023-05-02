@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "img": "https://assets.website-files.com/6230285868f0fb5be2ef42be/623d60afa817df436f415875_Team1.png",
+    "chef_name": "John Doe",
+    "year_of_experience": 10,
+    "number_of_likes": 1823,
+    "number_of_recipe": 4,
+    "recipe_names": [
+      "Pesto Pasta",
+      "Grilled Chicken",
+      "Beef Wellington",
+      "Tiramisu"
+    ],
+    "cooking_methods": ["Boiling", "Grilling", "Baking"],
+    "short_bio": "John Doe is a classically trained chef with experience in both French and Italian cuisine. He's known for his use of fresh ingredients and bold flavors."
+  },
+  {
+    "id": 2,
+    "img": "https://assets.website-files.com/6230285868f0fb5be2ef42be/623d60afa817df436f415875_Team1.png",
+    "chef_name": "Jane Smith",
+    "year_of_experience": 7,
+    "number_of_likes": 2331,
+    "number_of_recipe": 3,
+    "recipe_names": ["Bibimbap", "Japchae", "Bulgogi"],
+    "cooking_methods": ["Stir-frying", "Grilling", "Boiling"],
+    "short_bio": "Jane Smith is a Korean-American chef who specializes in traditional Korean cuisine. She's known for her attention to detail and use of authentic ingredients."
+  },
+  {
+    "id": 3,
+    "img": "https://assets.website-files.com/6230285868f0fb5be2ef42be/623d607dfcf0c6a8537ebb8c_Team7.png",
+    "chef_name": "Mario Rossi",
+    "year_of_experience": 15,
+    "number_of_likes": 1437,
+    "number_of_recipe": 5,
+    "recipe_names": [
+      "Margherita Pizza",
+      "Ravioli",
+      "Osso Buco",
+      "Tiramisu",
+      "Limoncello"
+    ],
+    "cooking_methods": ["Baking", "Boiling", "Braising"],
+    "short_bio": "Mario Rossi is an Italian chef with a passion for rustic, traditional Italian cuisine. He's known for his homemade pasta and fresh, seasonal ingredients."
+  },
+  {
+    "id": 4,
+    "img": "https://assets.website-files.com/6230285868f0fb5be2ef42be/623d605f9163fb8b16edd942_Team3.png",
+    "chef_name": "Maggie Nguyen",
+    "year_of_experience": 6,
+    "number_of_likes": 982,
+    "number_of_recipe": 4,
+    "recipe_names": ["Pho", "Banh Mi", "Spring Rolls", "Com Tam"],
+    "cooking_methods": ["Boiling", "Grilling", "Stir-frying"],
+    "short_bio": "Maggie Nguyen is a Vietnamese-American chef who specializes in traditional Vietnamese cuisine. She's known for her fresh, vibrant flavors and use of herbs and spices."
+  },
+  {
+    "id": 5,
+    "img": "https://assets.website-files.com/6230285868f0fb5be2ef42be/623d607dfcf0c6a8537ebb8c_Team7.png",
+    "chef_name": "Juan Rodriguez",
+    "year_of_experience": 12,
+    "number_of_likes": 1227,
+    "number_of_recipe": 3,
+    "recipe_names": ["Enchiladas", "Tamales", "Chiles Rellenos"],
+    "cooking_methods": ["Baking", "Steaming", "Frying"],
+    "short_bio": "Juan Rodriguez is a Mexican-American chef who specializes in traditional Mexican cuisine. He's known for his use of authentic ingredients and bold, spicy flavors."
+  },
+  {
+    "id": 6,
+    "img": "https://assets.website-files.com/6230285868f0fb5be2ef42be/623d605f9163fb8b16edd942_Team3.png",
+    "chef_name": "Samantha Lee",
+    "year_of_experience": 8,
+    "number_of_likes": 1866,
+    "number_of_recipe": 5,
+    "recipe_names": [
+      "Pad Thai",
+      "Green Curry",
+      "Tom Yum Soup",
+      "Mango Sticky Rice",
+      "Papaya Salad"
+    ],
+    "cooking_methods": ["Stir-frying", "Boiling", "Grilling"],
+    "short_bio": "Samantha Lee is a Thai-American chef who specializes in traditional Thai cuisine. She's known for her use of fresh, fragrant ingredients and balance of sweet, sour, salty, and spicy flavors."
+  }
+]
