@@ -14,6 +14,13 @@ app.get('/allChef',(req,res) =>{
   res.send(allChef)
 })
 
+// single data
+app.get('/allChef/:id',(req,res)=>{
+  const id = req.params.id;
+  const singleData = allChef.find(data => data.id == id)
+  res.send(singleData)
+})
+
 app.listen(port, () => {
   console.log(`chef server is running on ${port}`)
 })
