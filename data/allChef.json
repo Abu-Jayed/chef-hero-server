@@ -13,6 +13,9 @@
       "Beef Wellington",
       "Tiramisu"
     ],
+    "recipe_img1":"https://chef-hero-src.netlify.app/recipe_img/id_img-11.png",
+    "recipe_img2":"https://chef-hero-src.netlify.app/recipe_img/id_img-12.png",
+    "recipe_img3":"https://chef-hero-src.netlify.app/recipe_img/id_img-13.png",
     "ingredients": [
       "chicken",
       "coconut milk",
@@ -39,7 +42,7 @@
       "coriander"
     ],
     "cooking_methods": ["Stir-frying", "Steaming","Boiling", "Grilling", "Baking"],
-    "short_bio": "John Doe is a classically trained chef with experience in both French and Italian cuisine. He's known for his use of fresh ingredients and bold flavors."
+    "short_bio": "John Doe is a classically trained chef with experience in maxican cuisine. He's known for his use of fresh ingredients and bold flavors."
   },
   {
     "id": 2,
@@ -50,6 +53,9 @@
     "rating": [4.6,4.7,4.5],
     "number_of_recipe": 3,
     "recipe_names": ["Bibimbap", "Japchae", "Bulgogi"],
+    "recipe_img1":"https://chef-hero-src.netlify.app/recipe_img/id_img-21.png",
+    "recipe_img2":"https://chef-hero-src.netlify.app/recipe_img/id_img-22.png",
+    "recipe_img3":"https://chef-hero-src.netlify.app/recipe_img/id_img-23.png",
     "ingredients": [
       "rice noodles",
       "shrimp",
@@ -76,7 +82,7 @@
       "coriander"
     ],
     "cooking_methods": ["Baking", "Steaming","Stir-frying", "Grilling", "Boiling"],
-    "short_bio": "Jane Smith is a Korean-American chef who specializes in traditional Korean cuisine. She's known for her attention to detail and use of authentic ingredients."
+    "short_bio": "Jane Smith is a Maxican chef who specializes in traditional Maxican cuisine. He's known for her attention to detail and use of authentic ingredients."
   },
   {
     "id": 3,
@@ -93,6 +99,9 @@
       "Tiramisu",
       "Limoncello"
     ],
+    "recipe_img1":"https://chef-hero-src.netlify.app/recipe_img/id_img-31.png",
+    "recipe_img2":"https://chef-hero-src.netlify.app/recipe_img/id_img-32.png",
+    "recipe_img3":"https://chef-hero-src.netlify.app/recipe_img/id_img-33.png",
     "ingredients": [
       "shrimp",
       "lemongrass",
@@ -119,7 +128,7 @@
       "bell peppers"
     ],
     "cooking_methods": ["Stir-frying", "Steaming","Baking", "Boiling", "Braising"],
-    "short_bio": "Mario Rossi is an Italian chef with a passion for rustic, traditional Italian cuisine. He's known for his homemade pasta and fresh, seasonal ingredients."
+    "short_bio": "Mario Rossi is an Maxican chef with a passion for rustic, traditional Italian cuisine. She's known for his homemade pasta and fresh, seasonal ingredients."
   },
   {
     "id": 4,
@@ -130,6 +139,9 @@
     "rating": [4.9,4.7,4.8],
     "number_of_recipe": 4,
     "recipe_names": ["Pho", "Banh Mi", "Spring Rolls", "Com Tam"],
+    "recipe_img1":"https://chef-hero-src.netlify.app/recipe_img/id_img-41.png",
+    "recipe_img2":"https://chef-hero-src.netlify.app/recipe_img/id_img-42.png",
+    "recipe_img3":"https://chef-hero-src.netlify.app/recipe_img/id_img-43.png",
     "ingredients": [
       "poblano peppers",
       "ground beef",
@@ -154,7 +166,7 @@
       "coriander"
     ],
     "cooking_methods": ["Baking", "Steaming",  "Boiling", "Grilling", "Stir-frying"],
-    "short_bio": "Maggie Nguyen is a Vietnamese-American chef who specializes in traditional Vietnamese cuisine. She's known for her fresh, vibrant flavors and use of herbs and spices."
+    "short_bio": "Maggie Nguyen is a Maxican chef who specializes in traditional Maxican cuisine. He's known for her fresh, vibrant flavors and use of herbs and spices."
   },
   {
     "id": 5,
@@ -165,6 +177,9 @@
     "rating": [4.9,4.7,4.8],
     "number_of_recipe": 3,
     "recipe_names": ["Enchiladas", "Tamales", "Chiles Rellenos"],
+    "recipe_img1":"https://chef-hero-src.netlify.app/recipe_img/id_img-51.png",
+    "recipe_img2":"https://chef-hero-src.netlify.app/recipe_img/id_img-52.png",
+    "recipe_img3":"https://chef-hero-src.netlify.app/recipe_img/id_img-53.png",
     "ingredients": [
       "corn husks",
       "masa harina",
@@ -190,7 +205,7 @@
     ],
 
     "cooking_methods": ["Baking", "Steaming", "Frying","Stir-frying", "Boiling"],
-    "short_bio": "Juan Rodriguez is a Mexican-American chef who specializes in traditional Mexican cuisine. He's known for his use of authentic ingredients and bold, spicy flavors."
+    "short_bio": "Juan Rodriguez is a Mexican chef who specializes in traditional Mexican cuisine. She's known for his use of authentic ingredients and bold, spicy flavors."
   },
   {
     "id": 6,
@@ -203,10 +218,12 @@
     "recipe_names": [
       "Pad Thai",
       "Green Curry",
-      "Tom Yum Soup",
       "Mango Sticky Rice",
       "Papaya Salad"
     ],
+    "recipe_img1":"https://chef-hero-src.netlify.app/recipe_img/id_img-61.png",
+    "recipe_img2":"https://chef-hero-src.netlify.app/recipe_img/id_img-62.png",
+    "recipe_img3":"https://chef-hero-src.netlify.app/recipe_img/id_img-63.png",
     "ingredients": [
       "corn tortillas",
       "shredded chicken",
@@ -233,6 +250,6 @@
       "bell peppers"
     ],
     "cooking_methods": [ "Baking", "Steaming","Stir-frying", "Boiling", "Grilling"],
-    "short_bio": "Samantha Lee is a Thai-American chef who specializes in traditional Thai cuisine. She's known for her use of fresh, fragrant ingredients and balance of sweet, sour, salty, and spicy flavors."
+    "short_bio": "Samantha Lee is a Maxican chef who specializes in traditional Maxican cuisine. He's known for her use of fresh, fragrant ingredients and balance of sweet, sour, salty, and spicy flavors."
   }
 ]
